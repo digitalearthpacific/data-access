@@ -96,7 +96,7 @@ A comprehensive tutorial on using PySTAC Client is available at [https://pystac-
 
 ### OGC Web Services (GeoServer)
 
-DEP data is also available as WMS, WFS and WCS services, and can be visualised using GIS Desktop tools such as QGIS.
+DEP data is also available as WMS, WFS and WCS services, and can be visualised using GIS desktop tools such as QGIS.
 
 For QGIS, relevant web service links below can be registered and used without authenication via the Data Source Manager.
 
@@ -106,11 +106,24 @@ For QGIS, relevant web service links below can be registered and used without au
 
 ### QGIS STAC Plugin
 
-- Pending
+The [QGIS STAC API Browser](https://stac-utils.github.io/qgis-stac-plugin/) plugin can be used to query and visualise DEP earth observations COG products within QGIS.
 
+To install the plugin, follow the below steps.
+
+- Launch QGIS application and open Plugin Manager.
+- Search for STAC API Browser in the All page of the manager.
+- Click on the STAC API Browser result item and page with plugin information will show up.
+- Click the Install Plugin button at the bottom of the dialog to install the plugin.
+
+After launching the from the menu **STAC API Browser Plugin > Open STAC API Browser** register the following connection to access DEP projects.
+
+```
+Name : DEP STAC API
+URL  : https://stac.dep.datacube.world/api
+```
 ### Coastlines Data Download
 
-The latest iteration of the DEP multi-year coastlines change data can be downloaded in GeoPackage from [AWS S3 Storage](https://dep-public-test.s3.us-west-2.amazonaws.com/coastlines_0-7-0-47_3832.gpkg).
+The latest iteration of the DEP multi-year coastlines change data can be downloaded in GeoPackage format from [AWS S3 Storage](https://dep-public-test.s3.us-west-2.amazonaws.com/coastlines_0-7-0-47_3832.gpkg).
 
 ### Support
 
