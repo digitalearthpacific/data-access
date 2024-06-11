@@ -45,7 +45,7 @@ STAC data items can be queried, visualised and/or downloaded using PySTAC-Client
 
 The full STAC API for Digital Earth Pacific is documentated at [DEP STAC API](https://stac.dep.datacube.world/api.html).
 
-Below is an example for querying, plotting and downloading DEP Managroves Extent and Density product at a particular area of interest across all years.
+Below is an example for querying, plotting and downloading **DEP Managroves Extent and Density** product at a particular area of interest across all years.
 
 ```
 from pystac_client import Client
