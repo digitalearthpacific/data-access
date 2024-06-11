@@ -89,6 +89,8 @@ data.mangroves.plot.imshow(
 for idx, x in enumerate(data):
     x.rio.to_raster(collection + "_" + str(idx) + ".tif", driver="COG")
 ```
+A comprehensive tutorial on using PySTAC Client is available at [https://pystac-client.readthedocs.io/](https://pystac-client.readthedocs.io/en/latest/tutorials/pystac-client-introduction.html)
+
 
 ### OGC Web Services (GeoServer)
 
