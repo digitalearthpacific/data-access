@@ -4,7 +4,7 @@
   <img src="images/dep.png" />
 </div>
 
-Documentation of Digital Earth Pacific data organisation and access mechanisms via AWS Open Data Program
+Documentation of Digital Earth Pacific data organisation and access mechanisms via AWS Open Data Program.
 
 ## Data Organisation
 
@@ -16,7 +16,7 @@ Digital Earth Pacific's earth observation derived products are made accessible v
 
 | Product Type                    | Data Format | Service        |
 |---------------------------------|-------------|----------------|
-| Cloud Optimised Geotiffs (COGs) | Raster      | STAC, WMS, WCS |
+| Cloud Optimised GeoTiffs (COGs) | Raster      | STAC, WMS, WCS |
 | Coastlines Multi-Year PolyLines | Vector      | WFS, WMS       |
 
 ### Data Descriptions ###
@@ -115,7 +115,7 @@ To install the plugin, follow the below steps.
 - Click on the STAC API Browser result item and page with plugin information will show up.
 - Click the Install Plugin button at the bottom of the dialog to install the plugin.
 
-After launching the from the menu **STAC API Browser Plugin > Open STAC API Browser** register the following connection to access DEP projects.
+After launching the from the menu **STAC API Browser Plugin > Open STAC API Browser** register the following connection to access DEP products.
 
 ```
 Name : DEP STAC API
