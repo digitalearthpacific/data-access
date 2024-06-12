@@ -27,13 +27,13 @@ STAC item records for the following COG products are available at [DEP STAC Cata
 
 The includes data descriptions for the following DEP products:
 
-| Product | Temporal Scale |
-|---------|----------------|
-|Water Observations from Space (WoFS)|2013-2021|
-|Mangroves Extent and Density|2017-202|
-|Sentinel-2 GeoMAD|2017-2023|
-|LandSat GeoMAD|?|
-|Sentinel 1 Cloudless Mosaics|2017-2023|
+| Product | Temporal Scale | STAC Collection Name |
+|---------|----------------| ---------------------|
+|Water Observations from Space (WoFS)|2013-2021|dep_ls_wofs|
+|Mangroves Extent and Density|2017-202|dep_s2_mangroves|
+|Sentinel-2 GeoMAD|2017-2023|dep_s2_geomad|
+|LandSat GeoMAD|?|dep_ls_geomad|
+|Sentinel 1 Cloudless Mosaics|2017-2023|dep_s1_mosaic|
 
 The DEP Coastlines Product from 2000-2023 is available via WFS and WMS services via [DEP GeoServer](https://dep-geoserver.westeurope.cloudapp.azure.com).
 
