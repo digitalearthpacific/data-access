@@ -23,7 +23,7 @@ Digital Earth Pacific's earth observation derived products are made accessible v
 
 >The data service URLs in this document will change in the near future, please refer back here for updated links and information.
 
-STAC item records for the following COG products are available at [DEP STAC Catalog Browser](https://stac-browser.prod.digitalearthpacific.io).
+STAC item records for the following COG products are available at [DEP STAC Catalog Browser](https://stac-browser.digitalearthpacific.org).
 
 The includes data descriptions for the following DEP products:
 
