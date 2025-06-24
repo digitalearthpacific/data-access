@@ -33,6 +33,8 @@ The includes data descriptions for the following DEP products:
 | Mangroves Extent and Density         | 2017-202       | dep_s2_mangroves     |
 | Sentinel-2 GeoMAD                    | 2017-2024      | dep_s2_geomad        |
 | Sentinel 1 GeoMAD                    | 2017-2023      | dep_s1_geomad        |
+| Pacific Intertidal Model             | 2024           | dep_s2ls_intertidal  |
+| Satellite Derived Bathymetry         | 2023-2024      | dep_s2_sdb           |
 
 The DEP Coastlines Product from 2000-2023 is available via WFS and WMS services via [DEP Tileserver](https://tileserver.prod.digitalearthpacific.io/).
 
