@@ -107,7 +107,7 @@ URL  : https://stac.digitalearthpacific.org
 ```
 ### Coastlines Data Download
 
-The latest iteration of the DEP multi-year coastlines change data can be downloaded in GeoPackage format from [AWS S3 Storage]([https://](https://data.digitalearthpacific.org/#dep_ls_coastlines/)).
+The latest iteration of the DEP multi-year coastlines change data can be downloaded in GeoPackage format from [AWS S3 Storage](https://data.digitalearthpacific.org/#dep_ls_coastlines/).
 
 ### Support
 
