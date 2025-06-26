@@ -108,7 +108,7 @@ Name : DEP STAC API
 URL  : https://stac.digitalearthpacific.org
 ```
 
-#### Using the QGIS STAC Plugin to Acsess DEP Data
+#### Using the QGIS STAC Plugin to Access DEP Data
 
 - Search items using the following filters:
   - Collections
@@ -117,6 +117,9 @@ URL  : https://stac.digitalearthpacific.org
 - View the Footprints and Assets in the Results tab
   - You have the option to add the item footprint to the QGIS canvas, which allows you to see the outline of where the asset exists in space.
   - You can add the assets to the canvas by clicking on "View Assets" and selecting the bands you want added as a layer
+
+
+For more detailed information on how to use the plug-in please check out [documentation by STAC] (https://github.com/stac-utils/qgis-stac-plugin/blob/main/docs/user-guide.md). 
 
 
 ### Coastlines Data Download
