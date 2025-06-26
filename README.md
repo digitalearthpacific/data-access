@@ -107,6 +107,18 @@ After launching the from the menu **STAC API Browser Plugin > Open STAC API Brow
 Name : DEP STAC API
 URL  : https://stac.digitalearthpacific.org
 ```
+
+#### Using the QGIS STAC Plugin to Acsess DEP Data
+
+- Search items using the following filters:
+  - Collections
+  - Date filter
+  - Spatial Extent Filter
+- View the Footprints and Assets in the Results tab
+  - You have the option to add the item footprint to the QGIS canvas, which allows you to see the outline of where the asset exists in space.
+  - You can add the assets to the canvas by clicking on "View Assets" and selecting the bands you want added as a layer
+
+
 ### Coastlines Data Download
 
 The latest iteration of the DEP multi-year coastlines change data can be downloaded in GeoPackage format from [AWS S3 Storage](https://data.digitalearthpacific.org/#dep_ls_coastlines/).
